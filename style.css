@@ -200,6 +200,10 @@ input::-webkit-outer-spin-button{
         height: fit-content;
     }
 
+    .wrapper {
+        width: 100%;
+    }
+
     .calc {
          flex-direction: column;
     }
