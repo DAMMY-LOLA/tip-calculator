@@ -215,7 +215,6 @@ input::-webkit-outer-spin-button{
         height: fit-content;
     }
     .wrapper {
-        width: 75%;
-        margin: 32px auto;
+        width: 100%;
     }
 }
